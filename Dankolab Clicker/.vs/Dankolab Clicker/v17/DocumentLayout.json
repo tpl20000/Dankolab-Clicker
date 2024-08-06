@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|c:\\users\\tpl20\\documents\\github\\dankolab-clicker\\dankolab clicker\\assets\\scripts\\script_frameratelimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_frameratelimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\assets\\scripts\\script_coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\assets\\scripts\\script_moneyparticlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_moneyparticlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\assets\\scripts\\script_minecoinbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_minecoinbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\assets\\scripts\\script_moneyparticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C24B1D6-B611-2D9F-3159-654601ACADC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_moneyparticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Script_CoinManager.cs",
+              "DocumentMoniker": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_CoinManager.cs",
+              "ToolTip": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_CoinManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:00:36.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script_FramerateLimiter.cs",
+              "DocumentMoniker": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_FramerateLimiter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_FramerateLimiter.cs",
+              "ToolTip": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_FramerateLimiter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_FramerateLimiter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:00:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Script_MoneyParticleMovement.cs",
+              "DocumentMoniker": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MoneyParticleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_MoneyParticleMovement.cs",
+              "ToolTip": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MoneyParticleMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_MoneyParticleMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:24:54.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Script_MoneyParticleController.cs",
+              "DocumentMoniker": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MoneyParticleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_MoneyParticleController.cs",
+              "ToolTip": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MoneyParticleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_MoneyParticleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:41:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Script_MineCoinButton.cs",
+              "DocumentMoniker": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MineCoinButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_MineCoinButton.cs",
+              "ToolTip": "C:\\Users\\tpl20\\Documents\\GitHub\\Dankolab-Clicker\\Dankolab Clicker\\Assets\\Scripts\\Script_MineCoinButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_MineCoinButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:11:12.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
